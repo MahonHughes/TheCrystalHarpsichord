@@ -1,4 +1,4 @@
-# The Crystal Harpsichord
+# The Crystal Harpsichord: _Using physical modelling synthesis methods to create a glass harpsichord with diamond strings_
 
 The Crystal Harpsichord is a physical modelling synthesiser emulating a glass harpsichord with diamond strings.
 
