@@ -4,9 +4,7 @@ This is a repository containing the program code and some sound files generated 
 
 <img width="912" alt="The GUI" src="https://github.com/MahonHughes/TheCrystalHarpsichord/assets/34442699/5bf44602-d610-48a3-886d-732a29a39641">
 
-You can listen to an example note [here](Generated%20Wav%20Files)
-
-https://github.com/MahonHughes/TheCrystalHarpsichord/assets/34442699/48cebe45-cb93-4c8e-b358-05acd423db8f
+You can listen to example sounds [here](Generated%20Wav%20Files/readme.md)
 
 ## Compiling The Crystal Harpsichord
 
