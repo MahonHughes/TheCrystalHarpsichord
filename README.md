@@ -6,6 +6,9 @@ This is a repository containing the program code and some sound files generated 
 
 https://github.com/MahonHughes/TheCrystalHarpsichord/assets/34442699/48cebe45-cb93-4c8e-b358-05acd423db8f
 
+[Mid_Register_B3.webm](https://github.com/MahonHughes/TheCrystalHarpsichord/assets/34442699/8f662d98-c959-4667-9f23-e0ce4162b822)
+
+
 ## Compiling The Crystal Harpsichord
 
 Edit the makefile to include the path to your C++ compiler
